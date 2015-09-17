@@ -6,4 +6,7 @@
 <a href="https://en.wikipedia.org/wiki/Content_delivery_network">CDN</a><br>
 <a href="http://yuiblog.com/blog/2007/01/04/performance-research-part-2/">Browser Cache Usage</a><br>
 <a href="http://www.imagemagick.org/script/index.php">ImageMagick: Create favicon</a><br>
-<a href="http://www.phpied.com/data-urls-what-are-they-and-how-to-use/">data:urls – what are they and how to use them</a>
+<a href="http://www.phpied.com/data-urls-what-are-they-and-how-to-use/">data:urls – what are they and how to use them</a><br>
+<a href="https://docs.google.com/document/d/1U1RGAehQwRypUTovF1KRlpiOFze0b-_2gc6fAH0KY0k/edit">Source Map Revision 3 Proposal</a><br>
+<a href="http://www.phpied.com/diy-source-maps/">DIY source maps</a><br>
+<a href="http://davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/">When to Base64 Encode Images (and When Not To)</a><br>
