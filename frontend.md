@@ -10,3 +10,4 @@
 <a href="https://docs.google.com/document/d/1U1RGAehQwRypUTovF1KRlpiOFze0b-_2gc6fAH0KY0k/edit">Source Map Revision 3 Proposal</a><br>
 <a href="http://www.phpied.com/diy-source-maps/">DIY source maps</a><br>
 <a href="http://davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/">When to Base64 Encode Images (and When Not To)</a><br>
+<a href="https://msdn.microsoft.com/en-us/library/hh404101.aspx">Client Data Management and Caching</a>
