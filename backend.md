@@ -1,1 +1,1 @@
-<a href="https://en.wikipedia.org/wiki/SQL">SQL</a><br>ss
+<a href="https://en.wikipedia.org/wiki/SQL">SQL</a><br>
