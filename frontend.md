@@ -16,9 +16,7 @@
 <a href="https://learn.javascript.ru/json#формат-json">Формат JSON, метод toJSON</a><br>
 
 ## REST
-<ol>
-	<a href="https://ru.wikipedia.org/wiki/REST">REST (русская википедиа)</a><br>
-	<a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Representational State Transfer (REST)</a><br>
-	<a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation by Roy Thomas Fielding (2000): Architectural Styles and the Design of Network-based Software Architectures</a><br>
-	<a href="http://www.restapitutorial.com/lessons/whatisrest.html">What is REST? (video)</a>
-</ol>
+<a href="https://ru.wikipedia.org/wiki/REST">REST (русская википедиа)</a><br>
+<a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Representational State Transfer (REST)</a><br>
+<a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation by Roy Thomas Fielding (2000): Architectural Styles and the Design of Network-based Software Architectures</a><br>
+<a href="http://www.restapitutorial.com/lessons/whatisrest.html">What is REST? (video)</a>
