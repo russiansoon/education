@@ -1,2 +1,4 @@
-<a href="https://en.wikipedia.org/wiki/SQL">SQL</a><br>
-<a href="http://sqlbolt.com/">SQLBolt (interactive lessons)</a><br>
+## SQL
+
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [SQLBolt (interactive lessons)](http://sqlbolt.com/)

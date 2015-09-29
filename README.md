@@ -1,3 +1,3 @@
-# LINKS.
+# LINKS
 
-Spaced by <a href="http://daringfireball.net/projects/markdown/syntax#block">Markdown: Syntax</a>
+Spaced by [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax#block)
