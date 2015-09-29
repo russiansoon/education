@@ -13,4 +13,6 @@
 <a href="https://msdn.microsoft.com/en-us/library/hh404101.aspx">Client Data Management and Caching</a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">Using media queris</a><br>
 <a href="http://robdodson.me/javascript-design-patterns-singleton/">JavaScript Design Patterns: Singleton</a><br>
-<a href="https://learn.javascript.ru/json#формат-json">Формат JSON, метод toJSON</a>
+<a href="https://learn.javascript.ru/json#формат-json">Формат JSON, метод toJSON</a><br>
+<a href="https://ru.wikipedia.org/wiki/REST">REST (русская википедиа)</a><br>
+<a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Representational State Transfer (REST)</a><br>
