@@ -1,3 +1,5 @@
+> Что еще не прочитано - выделено жирным.
+
 <a href="http://tools.ietf.org/html/rfc2397
 ">The "data" URL scheme</a><br>
 <a href="https://en.wikipedia.org/wiki/Data_URI_scheme">Data URI scheme</a><br>
@@ -19,4 +21,4 @@
 <a href="https://ru.wikipedia.org/wiki/REST">REST (русская википедиа)</a><br>
 <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Representational State Transfer (REST)</a><br>
 <a href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Dissertation by Roy Thomas Fielding (2000): Architectural Styles and the Design of Network-based Software Architectures</a><br>
-<a href="http://www.restapitutorial.com/lessons/whatisrest.html" style="color: red;">What is REST? (video)</a>
+<a href="http://www.restapitutorial.com/lessons/whatisrest.html">What is REST? (video)</a>
