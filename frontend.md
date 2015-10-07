@@ -22,3 +22,8 @@
 - [**Representational State Transfer (REST)**](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [**Dissertation by Roy Thomas Fielding (2000): Architectural Styles and the Design of Network-based Software Architectures**](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [What is REST? (video)](http://www.restapitutorial.com/lessons/whatisrest.html)
+
+## GULP / BOWER
+
+- [Setting up Gulp, Bower, Bootstrap Sass & FontAwesome](http://ericlbarnes.com/setting-gulp-bower-bootstrap-sass-fontawesome/)
+- 
