@@ -26,4 +26,5 @@
 ## GULP / BOWER
 
 - [Setting up Gulp, Bower, Bootstrap Sass & FontAwesome](http://ericlbarnes.com/setting-gulp-bower-bootstrap-sass-fontawesome/)
-- 
+- [Приятная сборка frontend проекта](http://habrahabr.ru/post/250569/)
+
