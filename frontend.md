@@ -33,3 +33,13 @@
 
 - [How to remove .php, .html, .htm extensions with .htaccess](http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
 - [Habr article: htaccess](http://habrahabr.ru/post/154643/)
+
+## SVG
+
+- [Vivus](http://maxwellito.github.io/vivus/)
+- [Raphael](http://raphaeljs.com/)
+- [Snap](http://snapsvg.io/)
+- [Lazy line painter](http://lazylinepainter.info/)
+- [SVG JS](http://svgjs.com/)
+- [Walkway](https://github.com/ConnorAtherton/walkway)
+- [Vivus JS](https://github.com/maxwellito/vivus#vivusjs)
