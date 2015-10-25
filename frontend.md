@@ -15,6 +15,8 @@
 - [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [JavaScript Design Patterns: Singleton](http://robdodson.me/javascript-design-patterns-singleton/)
 - [Формат JSON, метод toJSON](https://learn.javascript.ru/json#формат-json)
+- [BEM mixins](https://css-tricks.com/snippets/sass/bem-mixins/)
+- [BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 
 ## REST
 
@@ -33,6 +35,7 @@
 
 - [How to remove .php, .html, .htm extensions with .htaccess](http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/)
 - [Habr article: htaccess](http://habrahabr.ru/post/154643/)
+- [Кэш приложений](http://www.html5rocks.com/ru/tutorials/appcache/beginner/#disqus_thread)
 
 ## SVG
 
