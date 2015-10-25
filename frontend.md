@@ -17,6 +17,7 @@
 - [Формат JSON, метод toJSON](https://learn.javascript.ru/json#формат-json)
 - [BEM mixins](https://css-tricks.com/snippets/sass/bem-mixins/)
 - [BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
+- [JSX](https://mieta.gitbooks.io/developing-a-react-age/content/glava_2_jsx.html)
 
 ## REST
 
@@ -46,3 +47,7 @@
 - [SVG JS](http://svgjs.com/)
 - [Walkway](https://github.com/ConnorAtherton/walkway)
 - [Vivus JS](https://github.com/maxwellito/vivus#vivusjs)
+
+## CSS
+
+-[CSS transition](http://andreysalomatin.me/razbiraiemsia-s-css-animatsiiei-transitions/)
