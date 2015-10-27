@@ -14,6 +14,7 @@
 - [Vagrant Documentation](https://docs.vagrantup.com/v2/)
 - [Mercurial: Полное руководство](http://bacher09.org/hgbook/ru/pdf/hgbook.pdf)
 - [Hg Init: Основы Mercurial](http://habrahabr.ru/post/108658/)
+- [Composer: DOCS](https://getcomposer.org/doc/)
 
 
 # ARTICLES

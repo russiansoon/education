@@ -18,6 +18,7 @@
 - [BEM mixins](https://css-tricks.com/snippets/sass/bem-mixins/)
 - [BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - [JSX](https://mieta.gitbooks.io/developing-a-react-age/content/glava_2_jsx.html)
+- [Git GUIDE](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 ## REST
 
@@ -50,4 +51,9 @@
 
 ## CSS
 
--[CSS transition](http://andreysalomatin.me/razbiraiemsia-s-css-animatsiiei-transitions/)
+- [CSS transition](http://andreysalomatin.me/razbiraiemsia-s-css-animatsiiei-transitions/)
+
+## OTHER
+
+- [The Open Graph Protocol](http://ogp.me)
+- [RDFa](https://en.wikipedia.org/wiki/RDFa)
