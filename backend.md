@@ -6,6 +6,7 @@
 # HTTP
 
 - [HTTP WIKI](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- [How to optimize your site with HTTP caching](http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
 
 # OTHER
 
@@ -21,3 +22,15 @@
 
 - [Vagrant: на русском](http://www.dataart.ru/blog/2014/02/vagrant-kto-takoj-chem-znamenit/)
 - [Настройка Vagrant для разработки](http://freetonik.com/blog/all/vagrant/)
+- [Performance Research, Part 2: Browser Cache Usage - Exposed!](http://yuiblog.com/blog/2007/01/04/performance-research-part-2/)
+
+#  APACHE
+
+- [Apache Module mod_deflate](http://httpd.apache.org/docs/current/mod/mod_deflate.html)
+
+
+# OTHER 
+
+- [10 Ways to speed up your website](http://blog.crazyegg.com/2013/12/11/speed-up-your-website/)
+- [Caching tutorial](https://www.mnot.net/cache_docs/)
+- [Optimizing page load time](http://www.die.net/musings/page_load_time/)
