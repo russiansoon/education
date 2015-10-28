@@ -28,9 +28,9 @@
 
 - [Apache Module mod_deflate](http://httpd.apache.org/docs/current/mod/mod_deflate.html)
 
-
 # OTHER 
 
 - [10 Ways to speed up your website](http://blog.crazyegg.com/2013/12/11/speed-up-your-website/)
 - [Caching tutorial](https://www.mnot.net/cache_docs/)
 - [Optimizing page load time](http://www.die.net/musings/page_load_time/)
+- [Enable gzip compression](https://varvy.com/pagespeed/enable-compression.html)
