@@ -28,9 +28,14 @@
 
 - [Apache Module mod_deflate](http://httpd.apache.org/docs/current/mod/mod_deflate.html)
 
-# OTHER 
+# OTHER
 
 - [10 Ways to speed up your website](http://blog.crazyegg.com/2013/12/11/speed-up-your-website/)
 - [Caching tutorial](https://www.mnot.net/cache_docs/)
 - [Optimizing page load time](http://www.die.net/musings/page_load_time/)
 - [Enable gzip compression](https://varvy.com/pagespeed/enable-compression.html)
+
+# Vagrant
+
+- [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu 14.04. 2](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04)
+- [How To Install Wordpress on Ubuntu 14.04 1](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04)
